@@ -35,15 +35,15 @@ Next iteration: PID line control, better chassis, and cable management. :content
 ## Media
 
 ### Prototype Picture
-![Line-Following Robot Prototype](../assets/images/line-following-robot.png)
+![Line-Following Robot Prototype](../assets/images/line-following-robot-picture.png)
 
 ### Demo Videos
 <video controls width="500">
-  <source src="../assets/videos/line-following-robot-1.mp4" type="video/mp4">
+  <source src="../assets/videos/line-following-robot-video-1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video controls width="500">
-  <source src="../assets/videos/line-following-robot-2.mp4" type="video/mp4">
+  <source src="../assets/videos/line-following-robot-video-2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
