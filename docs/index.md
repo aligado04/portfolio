@@ -1,6 +1,6 @@
 # Ali Gado — Mechatronics & Autonomous Systems
 
-I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, controls, and practical robotics**. I like building things that work reliably in the real world—then proving it with **tests, data, and iteration**. This portfolio highlights selected projects and a multi-page case study of my **Final Year Project**.
+I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, controls, and practical robotics**. I like building things that work reliably in the real world, then proving it with **tests, data, and iteration**. This portfolio highlights selected projects and a multi-page case study of my **Final Year Project**.
 
 **What you’ll find**
 - Embedded & control projects (Arduino, PIC, MATLAB/Simulink, PLC/IIoT)
