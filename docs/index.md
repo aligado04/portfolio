@@ -31,10 +31,10 @@ I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, 
 
 ### Year 1 — Foundations
 Built a strong base in **electronics, measurement, and embedded programming**.  
-- [Current → Voltage Converter](projects/analogue-electronics-converter.md) — op-amp circuit with low-pass filter to convert motor sensor current into voltage.  
-- [Pelican Crossing System](projects/pelican-crossing.md) — Arduino-based traffic/pedestrian light sequencing with button input and buzzer.  
-- [Digital Lock System](projects/digital-lock.md) — PIC microcontroller lock with LED feedback and in-place password update.  
-- [Mobile Phone Detector Circuit](projects/mobile-phone-detector.md) — RF-based detection prototype with sensitivity tuning.
+- [Current → Voltage Converter](projects/analogue-electronics-converter.md) - op-amp circuit with low-pass filter to convert motor sensor current into voltage.  
+- [Pelican Crossing System](projects/pelican-crossing.md) - Arduino-based traffic/pedestrian light sequencing with button input and buzzer.  
+- [Digital Lock System](projects/digital-lock.md) - PIC microcontroller lock with LED feedback and in-place password update.  
+- [Mobile Phone Detector Circuit](projects/mobile-phone-detector.md) - RF-based detection prototype with sensitivity tuning.
 
 ---
 
