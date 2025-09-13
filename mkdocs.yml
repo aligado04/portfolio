@@ -36,6 +36,8 @@ nav:
       - Pelican Crossing System (Arduino): projects/pelican-crossing.md
       - Mobile Phone Detector Circuit: projects/mobile-phone-detector.md
       - Process Control — DS vs ZN vs Smith Predictor: projects/process-control-comparison.md
+      - Current → Voltage Converter (Analogue Electronics): projects/analogue-electronics-converter.md
+
   - Modules (Year-by-Year):
       - Year 1 Summary: modules/year-1.md
       - Year 2 Summary: modules/year-2.md
