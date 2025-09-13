@@ -1,4 +1,4 @@
-# Ali Gado — Mechatronics & Autonomous Systems
+# Ali Gado - Mechatronics & Autonomous Systems
 
 I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, controls, and practical robotics**. I like building things that work reliably in the real world, then proving it with **tests, data, and iteration**. This portfolio highlights selected projects and a multi-page case study of my **Final Year Project**.
 
@@ -11,11 +11,11 @@ I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, 
 ---
 
 ## Featured Projects
-- **Final Year Project — Smart Assistive Navigation Cane**  
+- **Final Year Project - Smart Assistive Navigation Cane**  
   Low-cost ultrasonic + haptic + audio feedback; bench + blindfold navigation tests; virtual and physical prototypes.  
   → **Read case study:** [Final Year Project](projects/final-year-project/index.md)
 
-- **Process Control — DS vs ZN vs Smith Predictor**  
+- **Process Control - DS vs ZN vs Smith Predictor**  
   Simulink comparison on a delayed second-order process; rise time, overshoot, stability, control effort.  
   → [Project page](projects/process-control-comparison.md)
 
@@ -29,7 +29,7 @@ I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, 
 
 ## Year-by-Year Highlights
 
-### Year 1 — Foundations
+### Year 1 - Foundations
 Built a strong base in **electronics, measurement, and embedded programming**.  
 - [Current → Voltage Converter](projects/analogue-electronics-converter.md) - op-amp circuit with low-pass filter to convert motor sensor current into voltage.  
 - [Pelican Crossing System](projects/pelican-crossing.md) - Arduino-based traffic/pedestrian light sequencing with button input and buzzer.  
@@ -38,7 +38,7 @@ Built a strong base in **electronics, measurement, and embedded programming**.
 
 ---
 
-### Year 2 — Electronics & Communication
+### Year 2 - Electronics & Communication
 Expanded into **linear design, communication systems, and applied mechanics**.  
 - Group-built *Mobile Phone Detector* prototype, tested and presented.  
 - Simulated **Double Side Band Amplitude Modulation (DSBAM)** under AWGN in Simulink.  
@@ -46,12 +46,12 @@ Expanded into **linear design, communication systems, and applied mechanics**.
 
 ---
 
-### Year 3 — Robotics, IoT & Capstone
+### Year 3 - Robotics, IoT & Capstone
 Advanced to **autonomous systems, IoT, and control engineering**, capped by a major dissertation project.  
-- [Line-Following Robot](projects/line-following-robot.md) — navigation with LCD telemetry, audible alerts, and obstacle detection.  
+- [Line-Following Robot](projects/line-following-robot.md) - navigation with LCD telemetry, audible alerts, and obstacle detection.  
 - Extended the [Pelican Crossing](projects/pelican-crossing.md) with **pedestrian sensors** and **vehicle counting** for adaptive timing.  
 - Proposed **Autonomous Delivery Drone** for logistics, considering AI-driven navigation.  
-- **Final Year Project — Smart Assistive Navigation Cane:** multi-page case study with design, prototype, and testing.  
+- **Final Year Project - Smart Assistive Navigation Cane:** multi-page case study with design, prototype, and testing.  
   → [Read the full case study](projects/final-year-project/index.md)
 
 
