@@ -39,6 +39,9 @@ nav:
       - Current → Voltage Converter (Analogue Electronics): projects/analogue-electronics-converter.md
       - DSBAM under AWGN (Simulink): projects/dsbam-awgn-simulink.md
       - Autonomous Delivery Drone (Proposal): projects/autonomous-delivery-drone.md
+      - Fleet EV vs PV Analysis (Engineering Management): projects/fleet-ev-vs-pv.md
+      - Optimisation & Genetic Algorithms (MATLAB): projects/optimisation-genetic-algorithms.md
+
 
 
   - Modules (Year-by-Year):
