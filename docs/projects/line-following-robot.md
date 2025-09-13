@@ -35,7 +35,7 @@ Next iteration: PID line control, better chassis, and cable management. :content
 ## Media
 
 ### Prototype Picture
-![Line-Following Robot Prototype](docs/assets/images/Line-Following-Robot-Picture.jpeg)
+![Line-Following Robot Prototype](../assets/images/line-following-robot-picture.jpeg)
 
 ### Demo Videos
 <video controls width="500">
