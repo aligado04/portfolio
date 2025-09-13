@@ -14,7 +14,7 @@ Investigate how **Additive White Gaussian Noise (AWGN)** impacts a **Double Side
 
 ## Results (Observed Trends)
 - **Spectrum:** Peaks at **carrier + sidebands** become progressively **sharper & well-defined** as SNR increases; noise floor drops.  
-- **Scope:** Time-domain waveforms stabilize with higher SNR—less amplitude jitter/shape distortion; **square** messages show the same trend. :contentReference[oaicite:5]{index=5}
+- **Scope:** Time-domain waveforms stabilize with higher SNR, less amplitude jitter/shape distortion; **square** messages show the same trend. :contentReference[oaicite:5]{index=5}
 
 ## Recreate This
 1. Build the chain (Mod → AWGN → Demod) with Spectrum/Scopes.  
