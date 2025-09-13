@@ -1,3 +1,7 @@
+# Ali Gado — Mechatronics & Autonomous Systems Engineer
+
+I design and build **reliable embedded systems, robotics, and control solutions** — from Arduino prototypes to Simulink-validated controllers. My work combines **hands-on hardware** (sensors, PCBs, CAD) with **software for autonomy and IoT**, backed by rigorous testing and iteration.
+
 ## Featured Projects
 - **Final Year Project — Smart Assistive Navigation Cane**  
   Low-cost ultrasonic + haptic + audio feedback; bench + blindfold navigation tests; virtual and physical prototypes.  
