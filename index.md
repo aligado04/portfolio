@@ -1,10 +1,15 @@
-# Smart Assistive Navigation Cane
+## Featured Projects
+- **Final Year Project — Smart Assistive Navigation Cane**  
+  Low-cost ultrasonic + haptic + audio feedback; bench + blindfold navigation tests; virtual and physical prototypes.  
+  → **Read case study:** [Final Year Project](projects/final-year-project/index.md)
 
-A low-cost, user-friendly **assistive navigation cane** for visually impaired users combining **ultrasonic sensing**, **haptic feedback**, and **audio cues**. Includes **virtual** and **physical** prototypes, with comparative analysis versus existing solutions.
+- **Line-Following Robot**  
+  Autonomous robot with obstacle avoidance, LCD telemetry, buzzer alerts, and 3D-printed body.  
+  → [Project page](projects/line-following-robot.md)
 
-- **Target build cost:** ≈ £40
-- **Focus:** Accessibility, reliability, ease-of-use
-- **Outputs:** Design files, firmware, tests, and evaluation
+- **Process Control — DS vs ZN vs Smith Predictor**  
+  Simulink comparison on a delayed second-order process; rise time, overshoot, stability, control effort.  
+  → [Project page](projects/process-control-comparison.md)
 
 ## Contents
 - [1. Context & Objectives](context.md)
