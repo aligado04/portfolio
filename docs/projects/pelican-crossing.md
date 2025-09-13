@@ -12,8 +12,8 @@ Build a pedestrian crossing that safely sequences **car lights** (green/yellow/r
 - **Logic:** Debounced button request → yellow → red (cars) → green (ped) for a fixed **crossTime** → flashing ped green → return to car green.  
 - **Prototyping:** Flowchart → Tinkercad/Proteus simulation → breadboard build.
 
-> (Add image) Place your screenshot at `docs/assets/images/interactive-traffic-light.png` and embed:  
-> `![Breadboard + UNO layout](../assets/images/interactive-traffic-light.png)`
+![Pelican Crossing Simulation](../assets/images/interactive-traffic-light.png)
+
 
 ## Code (excerpt)
 ```cpp
