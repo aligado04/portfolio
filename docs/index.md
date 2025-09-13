@@ -25,6 +25,33 @@ I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, 
 
 ---
 
-## Browse by Year
-- [Year 1](modules/year-1.md) · [Year 2](modules/year-2.md) · [Year 3](modules/year-3.md) · [Year 4](modules/year-4.md)
+---
+
+## Year-by-Year Highlights
+
+### Year 1 — Foundations
+Built a strong base in **electronics, measurement, and embedded programming**.  
+- [Current → Voltage Converter](projects/analogue-electronics-converter.md) — op-amp circuit with low-pass filter to convert motor sensor current into voltage.  
+- [Pelican Crossing System](projects/pelican-crossing.md) — Arduino-based traffic/pedestrian light sequencing with button input and buzzer.  
+- [Digital Lock System](projects/digital-lock.md) — PIC microcontroller lock with LED feedback and in-place password update.  
+- [Mobile Phone Detector Circuit](projects/mobile-phone-detector.md) — RF-based detection prototype with sensitivity tuning.
+
+---
+
+### Year 2 — Electronics & Communication
+Expanded into **linear design, communication systems, and applied mechanics**.  
+- Group-built *Mobile Phone Detector* prototype, tested and presented.  
+- Simulated **Double Side Band Amplitude Modulation (DSBAM)** under AWGN in Simulink.  
+- Applied mechanics labs on **stress, strain, and vibration**.
+
+---
+
+### Year 3 — Robotics, IoT & Capstone
+Advanced to **autonomous systems, IoT, and control engineering**, capped by a major dissertation project.  
+- [Line-Following Robot](projects/line-following-robot.md) — navigation with LCD telemetry, audible alerts, and obstacle detection.  
+- Extended the [Pelican Crossing](projects/pelican-crossing.md) with **pedestrian sensors** and **vehicle counting** for adaptive timing.  
+- Proposed **Autonomous Delivery Drone** for logistics, considering AI-driven navigation.  
+- **Final Year Project — Smart Assistive Navigation Cane:** multi-page case study with design, prototype, and testing.  
+  → [Read the full case study](projects/final-year-project/index.md)
+
 
