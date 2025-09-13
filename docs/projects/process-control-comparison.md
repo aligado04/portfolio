@@ -1,22 +1,22 @@
-# Process Control — Direct Synthesis vs Ziegler–Nichols vs Smith Predictor
+# Process Control Comparison — DS vs ZN vs Smith Predictor
 
-**Module:** Process Control & Application  
-**Year:** 4  
-**Tags:** controls, Simulink, tuning, time-delay
+**Tags:** Simulink, time delay, tuning, chemical process
 
 ## Goal
-Short, outcome-focused statement of the problem you solved and why it mattered.
+Design and compare controllers for a **delayed second-order process** (chemical concentration loop, ~12-min transport delay). :contentReference[oaicite:2]{index=2}
 
-## System & Approach
-- Brief architecture (diagram or bullet points)
-- Hardware (MCU/SoC, sensors, actuators), Firmware/Control, Tools (Simulink/Proteus/etc.)
-- Optional flowchart/state machine
+## Controllers
+- **Direct Synthesis (DS):** model-based, good stability/performance trade-off  
+- **Ziegler–Nichols (ZN):** empirical tuning, fast but overshoot-prone  
+- **Smith Predictor:** explicit delay compensation, smoother response
 
-## Validation & Results
-- How you tested (bench, sim, field)
-- Key metrics (latency, accuracy, rise/settle time, power)
-- What “good” looked like and if you achieved it
+## Method
+Step-response studies in Simulink; recorded **rise time, overshoot, settling, control effort**.
+
+## Results (summary)
+- **ZN:** quickest response, highest overshoot
+- **DS:** balanced metrics across scenarios
+- **Smith:** best at delay handling; low oscillation, good stability
 
 ## Reflection
-- Trade-offs, lessons learned
-- What you’d improve next
+Clear view of **empirical vs model-based** design and the value of **delay compensation** in industrial loops. :contentReference[oaicite:3]{index=3}
