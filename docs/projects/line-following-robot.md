@@ -27,4 +27,23 @@ Build a robot that follows a **black line on white floor**, **stops** safely for
 - **Motor speed** → tuned PWM for smoother tracking :contentReference[oaicite:16]{index=16}
 
 ## Reflection
-Robustness came from **pin-clean wiring**, sensible **PWM limits**, and **sensor calibration**. Next iteration: PID line control, better chassis, and cable management. :contentReference[oaicite:17]{index=17}
+Robustness came from **pin-clean wiring**, sensible **PWM limits**, and **sensor calibration**.  
+Next iteration: PID line control, better chassis, and cable management. :contentReference[oaicite:0]{index=0}
+
+---
+
+## Media
+
+### Prototype Picture
+![Line-Following Robot Prototype](../assets/images/line-following-robot.png)
+
+### Demo Videos
+<video controls width="500">
+  <source src="../assets/videos/line-following-robot-1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="500">
+  <source src="../assets/videos/line-following-robot-2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
