@@ -1,0 +1,44 @@
+site_name: Ali Gado — Mechatronics & Autonomous Systems Portfolio
+site_description: Portfolio showcasing embedded systems, robotics, control, CAD/PCB, IoT, and a multi‑page final year dissertation with virtual + physical prototypes.
+site_url: https://YOUR-USERNAME.github.io/portfolio
+repo_url: https://github.com/YOUR-USERNAME/portfolio
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+  palette:
+    scheme: default
+  icon:
+    logo: material/robot-happy
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+plugins:
+  - search
+nav:
+  - Home: index.md
+  - Projects:
+      - Final Year Project (Smart Assistive Navigation Cane): projects/final-year-project/index.md
+      - Line-Following Robot (LCD + Obstacle Avoidance): projects/line-following-robot.md
+      - Digital Lock System (PIC µC): projects/digital-lock.md
+      - Pelican Crossing System (Arduino): projects/pelican-crossing.md
+      - Mobile Phone Detector Circuit: projects/mobile-phone-detector.md
+      - Process Control — DS vs ZN vs Smith Predictor: projects/process-control-comparison.md
+  - Modules (Year-by-Year):
+      - Year 1 Summary: modules/year-1.md
+      - Year 2 Summary: modules/year-2.md
+      - Year 3 Summary: modules/year-3.md
+      - Year 4 Summary: modules/year-4.md
+  - About & Contact: about.md
