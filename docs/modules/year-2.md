@@ -1,4 +1,4 @@
-# Year 2 — Electronics & Communication
+# Year 2 - Electronics & Communication
 
 Focused on **communications, signal analysis**, and applying embedded systems to real-world robotics.
 
