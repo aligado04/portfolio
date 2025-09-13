@@ -1,9 +1,9 @@
-# About & Contact
+# About Me
 
-**Mechatronics & Autonomous Systems Engineer** focused on reliable embedded systems, controls, and practical robotics.
+Hi, I’m **Ali Gado**, a Mechatronics & Autonomous Systems Engineer with a focus on **embedded systems, robotics, and control engineering**. My projects span from Arduino-based prototypes to MATLAB/Simulink process control models, always backed by rigorous testing and iteration.
 
-- **Email:** your.email@example.com
-- **LinkedIn:** https://www.linkedin.com/in/your-profile
-- **GitHub:** https://github.com/YOUR-USERNAME
+---
 
-*CV available on request.*
+## Contact
+📧 Email: [aligado952@gmail.com](mailto:aligado952@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ali-gado](https://www.linkedin.com/in/ali-gado)
