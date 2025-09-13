@@ -1,21 +1,30 @@
-# Hi, I'm Ali — Mechatronics & Autonomous Systems
+# Ali Gado — Mechatronics & Autonomous Systems
 
-Welcome! This portfolio highlights selected projects across **embedded systems, robotics, control, CAD/PCB, and IoT** — with a deep dive into my **Final Year Project** (a smart assistive navigation cane with both virtual and physical prototypes).
+I'm a Mechatronics & Autonomous Systems engineer focused on **embedded systems, controls, and practical robotics**. I like building things that work reliably in the real world—then proving it with **tests, data, and iteration**. This portfolio highlights selected projects and a multi-page case study of my **Final Year Project**.
 
-## Featured Projects
-
-- **Final Year Project — Smart Assistive Navigation Cane**  
-  Low-cost ultrasonic + haptic + audio feedback; virtual simulation & physical build; user testing and comparison with existing solutions.  
-  → **Read case study:** [Final Year Project](projects/final-year-project/index.md)
-
-- **Process Control — DS vs ZN vs Smith Predictor**  
-  Simulink-based comparison on a delayed second-order plant; analysis of rise time, overshoot, stability, and control effort.  
-  → [Project page](projects/process-control-comparison.md)
-
-- **Line-Following Robot with Obstacle Avoidance & LCD**  
-  Autonomous navigation, audible alerts, and telemetry on LCD; 3D-printed body.  
-  → [Project page](projects/line-following-robot.md)
+**What you’ll find**
+- Embedded & control projects (Arduino, PIC, MATLAB/Simulink, PLC/IIoT)
+- CAD/PCB and electronics builds
+- Structured write-ups with goals, approach, validation, and reflections
+- Final Year Project with virtual + physical prototypes
 
 ---
 
-> Recruiters: Each project page includes **Goal → Architecture → Tools → Validation → Results → Reflection**.
+## Featured Projects
+- **Final Year Project — Smart Assistive Navigation Cane**  
+  Low-cost ultrasonic + haptic + audio feedback; bench + blindfold navigation tests; virtual and physical prototypes.  
+  → **Read case study:** [Final Year Project](projects/final-year-project/index.md)
+
+- **Process Control — DS vs ZN vs Smith Predictor**  
+  Simulink comparison on a delayed second-order process; rise time, overshoot, stability, control effort.  
+  → [Project page](projects/process-control-comparison.md)
+
+- **Pelican Crossing System**  
+  Year-1 safety-logic prototype evolved in Year-3 with sensors and adaptive timing.  
+  → [Project page](projects/pelican-crossing.md)
+
+---
+
+## Browse by Year
+- [Year 1](modules/year-1.md) · [Year 2](modules/year-2.md) · [Year 3](modules/year-3.md) · [Year 4](modules/year-4.md)
+
