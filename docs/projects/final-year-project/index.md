@@ -1,7 +1,7 @@
 # Smart Assistive Navigation Cane (Final Year Project)
 
-**Dissertation:** [Download PDF](../../assets/docs/final-year-project-dissertation.pdf)  
-**Poster:** [View Poster](../../assets/docs/final-year-project-poster.pdf)
+**Dissertation:** [Download PDF](../../assets/images/final-year-project-dissertation.pdf)  
+**Poster:** [View Poster](../../assets/images/final-year-project-poster.pdf)
 
 **Tags:** Arduino, ultrasonic, haptics, assistive tech, SolidWorks
 
